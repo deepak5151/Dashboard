@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/Dashboard/static/css/main.fa6db407.chunk.css",
+    "main.js": "/Dashboard/static/js/main.362e4efe.chunk.js",
+    "main.js.map": "/Dashboard/static/js/main.362e4efe.chunk.js.map",
+    "runtime-main.js": "/Dashboard/static/js/runtime-main.28fbf228.js",
+    "runtime-main.js.map": "/Dashboard/static/js/runtime-main.28fbf228.js.map",
+    "static/js/2.f391b33d.chunk.js": "/Dashboard/static/js/2.f391b33d.chunk.js",
+    "static/js/2.f391b33d.chunk.js.map": "/Dashboard/static/js/2.f391b33d.chunk.js.map",
+    "index.html": "/Dashboard/index.html",
+    "precache-manifest.1379e509a83204a0b29958de0753bd35.js": "/Dashboard/precache-manifest.1379e509a83204a0b29958de0753bd35.js",
+    "service-worker.js": "/Dashboard/service-worker.js",
+    "static/css/main.fa6db407.chunk.css.map": "/Dashboard/static/css/main.fa6db407.chunk.css.map",
+    "static/js/2.f391b33d.chunk.js.LICENSE.txt": "/Dashboard/static/js/2.f391b33d.chunk.js.LICENSE.txt",
+    "static/media/argon-react.png": "/Dashboard/static/media/argon-react.f38ddea9.png",
+    "static/media/font-awesome.min.css": "/Dashboard/static/media/fontawesome-webfont.fee66e71.woff",
+    "static/media/ill-2.svg": "/Dashboard/static/media/ill-2.594b1ee1.svg",
+    "static/media/logo.png": "/Dashboard/static/media/logo.82c92992.png",
+    "static/media/nucleo.css": "/Dashboard/static/media/nucleo-icons.f82ec6ba.ttf",
+    "static/media/team-1-800x800.jpg": "/Dashboard/static/media/team-1-800x800.53033970.jpg",
+    "static/media/team-2-800x800.jpg": "/Dashboard/static/media/team-2-800x800.dcfcf3b7.jpg",
+    "static/media/team-3-800x800.jpg": "/Dashboard/static/media/team-3-800x800.497bb359.jpg",
+    "static/media/team-4-800x800.jpg": "/Dashboard/static/media/team-4-800x800.23007132.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.28fbf228.js",
+    "static/js/2.f391b33d.chunk.js",
+    "static/css/main.fa6db407.chunk.css",
+    "static/js/main.362e4efe.chunk.js"
+  ]
+}
